@@ -1,0 +1,25 @@
+{
+  "name": "riegobot",
+  "version": "1.0.0",
+  "description": "Telegram bot for irrigate the garden",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarlat/riegoBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarlat/riegoBot/issues"
+  },
+  "homepage": "https://github.com/omarlat/riegoBot#readme",
+  "dependencies": {
+    "env2": "^2.2.2",
+    "node-cron": "^2.0.3",
+    "node-telegram-bot-api": "^0.30.0",
+    "onoff": "^4.1.1"
+  }
+}
