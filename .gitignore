@@ -64,3 +64,5 @@ typings/
 \.ftpconfig
 
 \.ftpignore
+
+\.env0
