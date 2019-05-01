@@ -1,5 +1,7 @@
 # RiegoBot
 
+Telegram bot that allows you to manage an irrigation system with a raspberry pi
+
 ### Installation
 
 RiegoBot requires [Node.js](https://nodejs.org/) v8+.
